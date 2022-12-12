@@ -59,6 +59,11 @@
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\CarHandler.cs" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    <Compile Include="Assets\Scripts\CopCarNav.cs" />
+    <Compile Include="Assets\Scripts\CopCarHandler.cs" />
+>>>>>>> Stashed changes
 =======
     <Compile Include="Assets\Scripts\CopCarNav.cs" />
     <Compile Include="Assets\Scripts\CopCarHandler.cs" />
