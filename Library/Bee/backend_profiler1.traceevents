@@ -1,6 +1,7 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ,{ "pid":12345, "tid":0, "ts":1670763069296062, "dur":1028, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1670763069297103, "dur":17964, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
 ,{ "pid":12345, "tid":0, "ts":1670763069315133, "dur":46, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -1384,6 +1385,8 @@
 ,{ "pid":12345, "tid":8, "ts":1670763090642358, "dur":82378, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1670763090730162, "dur":6017, "ph":"X", "name": "ProfilerWriteOutput" }
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 ,{ "pid":12345, "tid":0, "ts":1670828973827781, "dur":2185, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
@@ -2778,6 +2781,9 @@
 ,{ "pid":12345, "tid":8, "ts":1670829003899566, "dur":374863, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1670829004281651, "dur":7033, "ph":"X", "name": "ProfilerWriteOutput" }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
