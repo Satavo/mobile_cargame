@@ -17,7 +17,11 @@ Logs/AssetImportWorker1.log
 -srvPort
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 61501
+=======
+63934
+>>>>>>> Stashed changes
 =======
 63934
 >>>>>>> Stashed changes
@@ -57,7 +61,11 @@ G:/Unity/Projects/mobile_cargame
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 104.49 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 106.53 ms, found 3 plugins.
+>>>>>>> Stashed changes
 =======
 Refreshing native plugins compatible for Editor in 106.53 ms, found 3 plugins.
 >>>>>>> Stashed changes
@@ -81,6 +89,7 @@ Mono path[1] = 'G:/Unity/Unity 2021.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/
 Mono config path = 'G:/Unity/Unity 2021.3.9f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -97,6 +106,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -111,6 +122,9 @@ Domain Reload Profiling:
 	ReloadAssembly (1073ms)
 		BeginReloadAssembly (102ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -119,6 +133,7 @@ Domain Reload Profiling:
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 		EndReloadAssembly (680ms)
@@ -138,6 +153,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 		EndReloadAssembly (773ms)
 			LoadAssemblies (100ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -153,6 +170,9 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (218ms)
 				ProcessInitializeOnLoadMethodAttributes (102ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -164,7 +184,11 @@ Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.006408 seconds.
+=======
+Registered in 0.008942 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.008942 seconds.
 >>>>>>> Stashed changes
@@ -177,6 +201,7 @@ Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargam
 Native extension for WindowsStandalone target not found
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -187,6 +212,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -195,6 +222,9 @@ Domain Reload Profiling:
 	ReloadAssembly (1502ms)
 		BeginReloadAssembly (164ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -203,6 +233,7 @@ Domain Reload Profiling:
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (26ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 		EndReloadAssembly (1100ms)
@@ -215,6 +246,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 		EndReloadAssembly (1148ms)
 			LoadAssemblies (113ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -223,6 +256,9 @@ Domain Reload Profiling:
 			RebuildScriptCaches (73ms)
 			SetupLoadedEditorAssemblies (519ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -230,6 +266,7 @@ Domain Reload Profiling:
 				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 				BeforeProcessingInitializeOnLoad (106ms)
@@ -252,6 +289,8 @@ Total: 3.900800 ms (FindLiveObjects: 0.320000 ms CreateObjectMapping: 0.132300 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 				BeforeProcessingInitializeOnLoad (105ms)
 				ProcessInitializeOnLoadAttributes (335ms)
 				ProcessInitializeOnLoadMethodAttributes (61ms)
@@ -270,6 +309,9 @@ Unloading 23 unused Assets / (30.2 KB). Loaded Objects now: 3765.
 Memory consumption went from 206.4 MB to 206.4 MB.
 Total: 7.120800 ms (FindLiveObjects: 0.659700 ms CreateObjectMapping: 0.205600 ms MarkObjects: 6.197400 ms  DeleteObjects: 0.055400 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -287,10 +329,13 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.008042 seconds.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Received Import Request.
@@ -309,6 +354,9 @@ Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.006708 seconds.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -316,6 +364,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
@@ -358,6 +407,8 @@ Total: 4.052000 ms (FindLiveObjects: 0.292100 ms CreateObjectMapping: 0.119700 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -396,6 +447,9 @@ Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3810.
 Memory consumption went from 210.9 MB to 210.9 MB.
 Total: 4.075000 ms (FindLiveObjects: 0.391300 ms CreateObjectMapping: 0.139900 ms MarkObjects: 3.511300 ms  DeleteObjects: 0.030500 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -415,7 +469,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.006828 seconds.
+=======
+Registered in 0.007334 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.007334 seconds.
 >>>>>>> Stashed changes
@@ -426,6 +484,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
@@ -450,6 +509,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -470,6 +531,9 @@ Domain Reload Profiling:
 			RebuildScriptCaches (88ms)
 			SetupLoadedEditorAssemblies (573ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -477,6 +541,7 @@ Domain Reload Profiling:
 				InitializePlatformSupportModulesInManaged (24ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 				BeforeProcessingInitializeOnLoad (110ms)
@@ -496,6 +561,8 @@ Total: 4.755800 ms (FindLiveObjects: 0.376000 ms CreateObjectMapping: 0.119800 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 				BeforeProcessingInitializeOnLoad (102ms)
 				ProcessInitializeOnLoadAttributes (373ms)
 				ProcessInitializeOnLoadMethodAttributes (60ms)
@@ -511,6 +578,9 @@ Unloading 17 unused Assets / (24.6 KB). Loaded Objects now: 3813.
 Memory consumption went from 210.9 MB to 210.9 MB.
 Total: 4.934700 ms (FindLiveObjects: 0.370000 ms CreateObjectMapping: 0.120300 ms MarkObjects: 4.405500 ms  DeleteObjects: 0.037200 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -530,7 +600,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.006662 seconds.
+=======
+Registered in 0.007387 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.007387 seconds.
 >>>>>>> Stashed changes
@@ -541,6 +615,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
@@ -583,6 +658,8 @@ Total: 6.112400 ms (FindLiveObjects: 0.305200 ms CreateObjectMapping: 0.123500 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -621,6 +698,9 @@ Unloading 17 unused Assets / (24.6 KB). Loaded Objects now: 3816.
 Memory consumption went from 210.9 MB to 210.9 MB.
 Total: 4.742300 ms (FindLiveObjects: 0.311300 ms CreateObjectMapping: 0.123000 ms MarkObjects: 4.275100 ms  DeleteObjects: 0.031200 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -638,10 +718,13 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.006722 seconds.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Received Import Request.
@@ -660,6 +743,9 @@ Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.007331 seconds.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -667,6 +753,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
@@ -691,6 +778,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -711,6 +800,9 @@ Domain Reload Profiling:
 			RebuildScriptCaches (75ms)
 			SetupLoadedEditorAssemblies (566ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -721,8 +813,13 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (106ms)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				ProcessInitializeOnLoadAttributes (398ms)
 				ProcessInitializeOnLoadMethodAttributes (57ms)
+=======
+				ProcessInitializeOnLoadAttributes (363ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+>>>>>>> Stashed changes
 =======
 				ProcessInitializeOnLoadAttributes (363ms)
 				ProcessInitializeOnLoadMethodAttributes (60ms)
@@ -738,6 +835,7 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 3.78 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3255 Unused Serialized files (Serialized files now loaded: 0)
@@ -747,6 +845,8 @@ Total: 4.788600 ms (FindLiveObjects: 0.346500 ms CreateObjectMapping: 0.137400 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 3.60 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3257 Unused Serialized files (Serialized files now loaded: 0)
@@ -754,6 +854,9 @@ Unloading 17 unused Assets / (24.6 KB). Loaded Objects now: 3822.
 Memory consumption went from 211.1 MB to 211.0 MB.
 Total: 8.806600 ms (FindLiveObjects: 0.517300 ms CreateObjectMapping: 0.155200 ms MarkObjects: 8.098200 ms  DeleteObjects: 0.034300 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -773,7 +876,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.007172 seconds.
+=======
+Registered in 0.007644 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.007644 seconds.
 >>>>>>> Stashed changes
@@ -784,6 +891,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
@@ -814,6 +922,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadMethodAttributes (53ms)
 				AfterProcessingInitializeOnLoad (12ms)
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
@@ -900,6 +1010,9 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadMethodAttributes (48ms)
 				AfterProcessingInitializeOnLoad (11ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -907,6 +1020,7 @@ Domain Reload Profiling:
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (13ms)
 Platform modules already initialized, skipping
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 3.37 ms, found 3 plugins.
@@ -918,6 +1032,8 @@ Total: 4.957200 ms (FindLiveObjects: 0.321300 ms CreateObjectMapping: 0.117600 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 4.48 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3257 Unused Serialized files (Serialized files now loaded: 0)
@@ -925,6 +1041,9 @@ Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3828.
 Memory consumption went from 211.1 MB to 211.1 MB.
 Total: 3.561300 ms (FindLiveObjects: 0.320000 ms CreateObjectMapping: 0.123600 ms MarkObjects: 3.089400 ms  DeleteObjects: 0.026900 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -944,7 +1063,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.009569 seconds.
+=======
+Registered in 0.009852 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.009852 seconds.
 >>>>>>> Stashed changes
@@ -957,6 +1080,7 @@ Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargam
 Native extension for WindowsStandalone target not found
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -967,6 +1091,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -975,6 +1101,9 @@ Domain Reload Profiling:
 	ReloadAssembly (1627ms)
 		BeginReloadAssembly (183ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -982,6 +1111,7 @@ Domain Reload Profiling:
 			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 			CreateAndSetChildDomain (58ms)
@@ -1003,6 +1133,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 			CreateAndSetChildDomain (45ms)
 		EndReloadAssembly (1253ms)
 			LoadAssemblies (123ms)
@@ -1020,6 +1152,9 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadMethodAttributes (60ms)
 				AfterProcessingInitializeOnLoad (13ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1027,6 +1162,7 @@ Domain Reload Profiling:
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (11ms)
 Platform modules already initialized, skipping
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 2.95 ms, found 3 plugins.
@@ -1038,6 +1174,8 @@ Total: 4.125400 ms (FindLiveObjects: 0.310300 ms CreateObjectMapping: 0.139800 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 4.18 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3257 Unused Serialized files (Serialized files now loaded: 0)
@@ -1045,6 +1183,9 @@ Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3831.
 Memory consumption went from 211.1 MB to 211.1 MB.
 Total: 6.509100 ms (FindLiveObjects: 0.633600 ms CreateObjectMapping: 0.237900 ms MarkObjects: 5.594400 ms  DeleteObjects: 0.041200 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1061,6 +1202,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 2537845.005221 seconds.
@@ -1080,6 +1222,8 @@ Registered in 0.005920 seconds.
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
   Time since last request: 13862.349227 seconds.
   path: Assets/Car_police/Car/Materials/Textures/Police_car_light.png
   artifactKey: Guid(466cc05e9a6610641844268a49c21f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1089,6 +1233,9 @@ Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.006156 seconds.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1096,6 +1243,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
@@ -1138,6 +1286,8 @@ Total: 6.005700 ms (FindLiveObjects: 0.329000 ms CreateObjectMapping: 0.123700 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1176,6 +1326,9 @@ Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3836.
 Memory consumption went from 211.1 MB to 211.1 MB.
 Total: 6.709200 ms (FindLiveObjects: 0.518500 ms CreateObjectMapping: 0.392200 ms MarkObjects: 5.723100 ms  DeleteObjects: 0.073600 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1195,7 +1348,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.008250 seconds.
+=======
+Registered in 0.006214 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.006214 seconds.
 >>>>>>> Stashed changes
@@ -1206,6 +1363,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
@@ -1248,6 +1406,8 @@ Total: 4.688300 ms (FindLiveObjects: 0.476100 ms CreateObjectMapping: 0.146400 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1286,6 +1446,9 @@ Unloading 17 unused Assets / (24.6 KB). Loaded Objects now: 3839.
 Memory consumption went from 211.1 MB to 211.1 MB.
 Total: 8.489500 ms (FindLiveObjects: 1.102300 ms CreateObjectMapping: 0.254000 ms MarkObjects: 7.084500 ms  DeleteObjects: 0.046600 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1305,7 +1468,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.007118 seconds.
+=======
+Registered in 0.007645 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.007645 seconds.
 >>>>>>> Stashed changes
@@ -1316,6 +1483,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
@@ -1358,6 +1526,8 @@ Total: 5.597000 ms (FindLiveObjects: 0.369800 ms CreateObjectMapping: 0.139000 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1396,6 +1566,9 @@ Unloading 17 unused Assets / (24.6 KB). Loaded Objects now: 3842.
 Memory consumption went from 211.1 MB to 211.1 MB.
 Total: 7.280000 ms (FindLiveObjects: 0.505100 ms CreateObjectMapping: 0.159800 ms MarkObjects: 6.580100 ms  DeleteObjects: 0.033300 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1415,7 +1588,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.007463 seconds.
+=======
+Registered in 0.006346 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.006346 seconds.
 >>>>>>> Stashed changes
@@ -1428,6 +1605,7 @@ Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargam
 Native extension for WindowsStandalone target not found
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1438,6 +1616,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1446,6 +1626,9 @@ Domain Reload Profiling:
 	ReloadAssembly (1679ms)
 		BeginReloadAssembly (191ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1453,6 +1636,7 @@ Domain Reload Profiling:
 			DisableScriptedObjects (9ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 			CreateAndSetChildDomain (46ms)
@@ -1484,6 +1668,8 @@ Total: 4.338800 ms (FindLiveObjects: 0.293600 ms CreateObjectMapping: 0.125700 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 			CreateAndSetChildDomain (49ms)
 		EndReloadAssembly (1330ms)
 			LoadAssemblies (127ms)
@@ -1511,6 +1697,9 @@ Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3845.
 Memory consumption went from 211.1 MB to 211.1 MB.
 Total: 4.754600 ms (FindLiveObjects: 0.369700 ms CreateObjectMapping: 0.156600 ms MarkObjects: 4.194400 ms  DeleteObjects: 0.032200 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1526,6 +1715,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Received Import Request.
@@ -1547,10 +1737,16 @@ Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.008345 seconds.
 >>>>>>> Stashed changes
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008345 seconds.
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
@@ -1593,6 +1789,8 @@ Total: 7.351900 ms (FindLiveObjects: 0.616200 ms CreateObjectMapping: 0.159700 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1631,6 +1829,9 @@ Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3848.
 Memory consumption went from 211.1 MB to 211.1 MB.
 Total: 5.730800 ms (FindLiveObjects: 0.348300 ms CreateObjectMapping: 0.158600 ms MarkObjects: 5.170300 ms  DeleteObjects: 0.051400 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1646,6 +1847,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Received Import Request.
@@ -1691,10 +1893,16 @@ Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.006127 seconds.
 >>>>>>> Stashed changes
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006127 seconds.
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
@@ -1719,6 +1927,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1739,6 +1949,9 @@ Domain Reload Profiling:
 			RebuildScriptCaches (73ms)
 			SetupLoadedEditorAssemblies (582ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1746,6 +1959,7 @@ Domain Reload Profiling:
 				InitializePlatformSupportModulesInManaged (25ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 				BeforeProcessingInitializeOnLoad (118ms)
@@ -1765,6 +1979,8 @@ Total: 5.801400 ms (FindLiveObjects: 0.346100 ms CreateObjectMapping: 0.127600 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 				BeforeProcessingInitializeOnLoad (115ms)
 				ProcessInitializeOnLoadAttributes (367ms)
 				ProcessInitializeOnLoadMethodAttributes (60ms)
@@ -1780,6 +1996,9 @@ Unloading 17 unused Assets / (24.6 KB). Loaded Objects now: 3851.
 Memory consumption went from 211.1 MB to 211.1 MB.
 Total: 6.245000 ms (FindLiveObjects: 0.671800 ms CreateObjectMapping: 0.247700 ms MarkObjects: 5.264100 ms  DeleteObjects: 0.059500 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1799,7 +2018,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.006087 seconds.
+=======
+Registered in 0.008231 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.008231 seconds.
 >>>>>>> Stashed changes
@@ -1812,6 +2035,7 @@ Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargam
 Native extension for WindowsStandalone target not found
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1822,6 +2046,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1830,6 +2056,9 @@ Domain Reload Profiling:
 	ReloadAssembly (1618ms)
 		BeginReloadAssembly (182ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1838,6 +2067,7 @@ Domain Reload Profiling:
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (45ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 		EndReloadAssembly (1353ms)
@@ -1868,6 +2098,8 @@ Total: 4.243200 ms (FindLiveObjects: 0.432600 ms CreateObjectMapping: 0.122800 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 		EndReloadAssembly (1275ms)
 			LoadAssemblies (123ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -1894,6 +2126,9 @@ Unloading 17 unused Assets / (24.6 KB). Loaded Objects now: 3854.
 Memory consumption went from 211.2 MB to 211.1 MB.
 Total: 4.558900 ms (FindLiveObjects: 0.554300 ms CreateObjectMapping: 0.269400 ms MarkObjects: 3.701200 ms  DeleteObjects: 0.032600 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1913,7 +2148,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.008196 seconds.
+=======
+Registered in 0.006049 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.006049 seconds.
 >>>>>>> Stashed changes
@@ -1924,6 +2163,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
@@ -1964,6 +2204,8 @@ Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3833.
 Memory consumption went from 136.2 MB to 136.2 MB.
 Total: 6.489400 ms (FindLiveObjects: 0.736200 ms CreateObjectMapping: 0.452600 ms MarkObjects: 5.266400 ms  DeleteObjects: 0.032400 ms)
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
@@ -2060,6 +2302,9 @@ Unloading 17 unused Assets / (24.6 KB). Loaded Objects now: 3860.
 Memory consumption went from 211.2 MB to 211.1 MB.
 Total: 4.380600 ms (FindLiveObjects: 0.307300 ms CreateObjectMapping: 0.118900 ms MarkObjects: 3.913800 ms  DeleteObjects: 0.038600 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2079,7 +2324,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.007705 seconds.
+=======
+Registered in 0.007121 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.007121 seconds.
 >>>>>>> Stashed changes
@@ -2090,6 +2339,7 @@ Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image G:\Unity\Projects\mobile_cargame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
@@ -2132,6 +2382,8 @@ Total: 6.856700 ms (FindLiveObjects: 1.043000 ms CreateObjectMapping: 0.570600 m
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -2170,6 +2422,9 @@ Unloading 17 unused Assets / (24.7 KB). Loaded Objects now: 3863.
 Memory consumption went from 211.2 MB to 211.1 MB.
 Total: 4.399500 ms (FindLiveObjects: 0.524900 ms CreateObjectMapping: 0.163100 ms MarkObjects: 3.677200 ms  DeleteObjects: 0.032600 ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2188,6 +2443,7 @@ AssetImportParameters requested are different than current active one (requested
 Received Import Request.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 6085.952486 seconds.
   path: Assets/landscape/Textures/Asphalt_texture6/Asphalt_texture_6.png
   artifactKey: Guid(486f50e115d51af43916df8726401068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -2199,6 +2455,8 @@ Received Import Request.
   artifactKey: Guid(fc23e8b2645fb09429be58af2de97fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/landscape/Textures/Asphalt_texture6/Materials/DisplacementMap-6.mat using Guid(fc23e8b2645fb09429be58af2de97fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a49b8853ec51922f5ac8c58c8972c08') in 0.099400 seconds 
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   Time since last request: 6841.149512 seconds.
@@ -2658,6 +2916,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

@@ -11,6 +11,7 @@
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 { "pid": 0, "tid": 1, "ts": 1670764092121972, "dur": 201857, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1670764092124085, "dur": 75384, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1670764092199785, "dur": 114222, "ph": "X", "name": "Run Backend", "args": {} },
@@ -1039,6 +1040,17 @@
 { "pid": 0, "tid": 1, "ts": 1670829004305652, "dur": 1062, "ph": "X", "name": "ChromeTraceHeader", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1670829004311427, "dur": 1341, "ph": "X", "name": "", "args": {} },
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+=======
+{ "pid": 0, "tid": 1, "ts": 1670828970837345, "dur": 33466201, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1670828970839746, "dur": 208480, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1670828971048545, "dur": 152545, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1670828971201147, "dur": 2508970, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1670828973710119, "dur": 30582845, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1670829004292995, "dur": 10550, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1670829004305652, "dur": 1062, "ph": "X", "name": "ChromeTraceHeader", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1670829004311427, "dur": 1341, "ph": "X", "name": "", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+>>>>>>> Stashed changes
 =======
 { "pid": 0, "tid": 1, "ts": 1670828970837345, "dur": 33466201, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1670828970839746, "dur": 208480, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
@@ -2496,6 +2508,9 @@
 ,{ "pid": 0, "tid": 1, "ts": 1670829004316606, "dur": 1830, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1670829004308742, "dur": 9745, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
