@@ -23,7 +23,7 @@ public class Menu : MonoBehaviour
     }
     public void ChangeScene(string sceneName)
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
     public void ChangeCar(string CarName)
     {

@@ -21,7 +21,7 @@ public class ExitLevel : MonoBehaviour
     {
         if (PlayerCar.transform.tag == "Player")
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(0);
         }
     }
 }

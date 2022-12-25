@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.AnimatedValues;
@@ -251,3 +252,4 @@ public class PrometeoEditor : Editor{
   }
 
 }
+#endif
