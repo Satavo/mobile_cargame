@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638075247333857953
-    m_Hash: 1520936982
+      ticks: 638075923503116560
+    m_Hash: 894283364
   m_LockFileStatus:
     m_FilePath: E:/UnityProject/mobile_cargame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638075545859418885
-    m_Hash: 2946441535
+      ticks: 638075923503116560
+    m_Hash: 950090174
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
