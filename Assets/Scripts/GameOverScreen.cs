@@ -12,10 +12,14 @@ public class GameOverScreen : MonoBehaviour
     public void MainMenu()
     {
         SceneManager.LoadScene(0);
+        PlayerPrefs.SetInt("NumberOfCoins", 0);
+        PlayerStats.numberofcoins = 0;
     }
     public void Restart()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        PlayerPrefs.SetInt("NumberOfCoins", 0);
+        PlayerStats.numberofcoins = 0;
     }
     public void Awake()
     {

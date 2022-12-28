@@ -21,6 +21,7 @@ public class ExitLevel : MonoBehaviour
     {
         if (PlayerCar.transform.tag == "Player")
         {
+            PlayerPrefs.SetInt("TotalCoins", PlayerPrefs.GetInt("TotalCoins", 0) + PlayerPrefs.GetInt("NumberOfCoins"));
             SceneManager.LoadScene(0);
         }
     }

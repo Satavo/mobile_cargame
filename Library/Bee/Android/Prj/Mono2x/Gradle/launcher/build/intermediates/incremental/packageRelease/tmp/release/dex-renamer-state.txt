@@ -1,4 +1,4 @@
-#Sun Dec 25 21:07:22 KRAT 2022
+#Wed Dec 28 19:43:18 KRAT 2022
 base.0=E\:\\UnityProject\\mobile_cargame\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

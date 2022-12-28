@@ -3,7 +3,9 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - AI
     - Coins
+    - CopCatch
     - ExitLevel
+    - GameOverScreen
     - Menu
     - NewCamera
     - NoStutter
@@ -22,6 +24,7 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshPro
     - TMPro.TextMeshProUGUI
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
@@ -85,6 +88,15 @@ ScriptsOnlyBuild:
     fullTypeName: Menu
     methodName: ChangeScene
   - assembly: Assembly-CSharp
+    fullTypeName: GameOverScreen
+    methodName: Restart
+  - assembly: Assembly-CSharp
+    fullTypeName: GameOverScreen
+    methodName: Restart
+  - assembly: Assembly-CSharp
+    fullTypeName: GameOverScreen
+    methodName: MainMenu
+  - assembly: Assembly-CSharp
     fullTypeName: PrometeoTouchInput
     methodName: ButtonDown
   - assembly: Assembly-CSharp
@@ -146,6 +158,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 90
@@ -163,33 +179,35 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1542}
     - Class: 114
-      Script: {instanceID: 1658}
+      Script: {instanceID: 1846}
     - Class: 114
-      Script: {instanceID: 2184}
+      Script: {instanceID: 2372}
     - Class: 114
-      Script: {instanceID: 2586}
+      Script: {instanceID: 2772}
     - Class: 114
-      Script: {instanceID: 2614}
+      Script: {instanceID: 2800}
     - Class: 114
-      Script: {instanceID: 2830}
+      Script: {instanceID: 3016}
     - Class: 114
-      Script: {instanceID: 3122}
+      Script: {instanceID: 3310}
     - Class: 114
-      Script: {instanceID: 3286}
+      Script: {instanceID: 3472}
     - Class: 114
-      Script: {instanceID: 4044}
+      Script: {instanceID: 3762}
     - Class: 114
-      Script: {instanceID: 4154}
+      Script: {instanceID: 4230}
     - Class: 114
-      Script: {instanceID: 4424}
+      Script: {instanceID: 4340}
     - Class: 114
-      Script: {instanceID: 5164}
+      Script: {instanceID: 4612}
     - Class: 114
-      Script: {instanceID: 5752}
+      Script: {instanceID: 5352}
     - Class: 114
-      Script: {instanceID: 5906}
+      Script: {instanceID: 5940}
     - Class: 114
-      Script: {instanceID: 6236}
+      Script: {instanceID: 6094}
+    - Class: 114
+      Script: {instanceID: 6424}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -243,6 +261,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 96
@@ -254,39 +276,47 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1542}
     - Class: 114
-      Script: {instanceID: 2060}
+      Script: {instanceID: 2248}
     - Class: 114
-      Script: {instanceID: 2276}
+      Script: {instanceID: 2462}
     - Class: 114
-      Script: {instanceID: 2374}
+      Script: {instanceID: 2560}
     - Class: 114
-      Script: {instanceID: 2614}
+      Script: {instanceID: 2800}
     - Class: 114
-      Script: {instanceID: 2830}
+      Script: {instanceID: 3016}
     - Class: 114
-      Script: {instanceID: 3228}
+      Script: {instanceID: 3122}
     - Class: 114
-      Script: {instanceID: 3358}
+      Script: {instanceID: 3310}
     - Class: 114
-      Script: {instanceID: 5164}
+      Script: {instanceID: 3416}
     - Class: 114
-      Script: {instanceID: 5752}
+      Script: {instanceID: 3544}
     - Class: 114
-      Script: {instanceID: 5906}
+      Script: {instanceID: 3762}
     - Class: 114
-      Script: {instanceID: 5996}
+      Script: {instanceID: 4502}
     - Class: 114
-      Script: {instanceID: 6226}
+      Script: {instanceID: 5352}
     - Class: 114
-      Script: {instanceID: 6236}
+      Script: {instanceID: 5940}
     - Class: 114
-      Script: {instanceID: 6814}
+      Script: {instanceID: 6094}
     - Class: 114
-      Script: {instanceID: 6996}
+      Script: {instanceID: 6184}
     - Class: 114
-      Script: {instanceID: 7996}
+      Script: {instanceID: 6414}
     - Class: 114
-      Script: {instanceID: 1714716}
+      Script: {instanceID: 6424}
+    - Class: 114
+      Script: {instanceID: 7002}
+    - Class: 114
+      Script: {instanceID: 7048}
+    - Class: 114
+      Script: {instanceID: 7186}
+    - Class: 114
+      Script: {instanceID: 8184}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -426,12 +456,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PrometeoEditor
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameOvers
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -590,6 +614,12 @@ ScriptsOnlyBuild:
     className: TestResultRendererCallback
   - hash:
       serializedVersion: 2
+      Hash: 3aa34d0586d4ff22e8d4c9507c6b2a9b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CopCatch
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -650,13 +680,7 @@ ScriptsOnlyBuild:
     className: UnityOnScrollMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 7f376326cbdcde41961f4adc21d673b0
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CopAttack
-  - hash:
-      serializedVersion: 2
-      Hash: 057b0a23c29aedd01085d8e5e702c4a4
+      Hash: 62e03584d19b642b8128ea11db1b16ff
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Menu
@@ -846,6 +870,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: DictionaryAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameOverScreen
   - hash:
       serializedVersion: 2
       Hash: 6980e81ddc615a861309d2d659cc3760
@@ -1214,6 +1244,12 @@ ScriptsOnlyBuild:
     className: PositionAsUV1
   - hash:
       serializedVersion: 2
+      Hash: 2d98c98d17148315dd3ccef5db480cc8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NoStutter
+  - hash:
+      serializedVersion: 2
       Hash: 87ff43d2baf3385cba327d8f803a4ebb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1398,12 +1434,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 2d98c98d17148315dd3ccef5db480cc8
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: NoStutter
   platform: 13
   scenePathNames:
   - Assets/Scenes/Menu.unity

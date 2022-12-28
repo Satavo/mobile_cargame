@@ -9,7 +9,6 @@ public class CopCatch : MonoBehaviour
     public int CurrentCatchHits;
     public GameObject PlayerCar;
     public GameOverScreen GameOverScreen;
-    public PrometeoEditor carController;
     // Start is called before the first frame update
     void Start()
     {
